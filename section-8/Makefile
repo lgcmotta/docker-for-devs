@@ -1,8 +1,11 @@
 node1:
-	ssh -i "node1.pem" ec2-user@ec2-3-133-59-162.us-east-2.compute.amazonaws.com;
+	chmod +x ./connect_aws_node_1.sh;
+	./connect_aws_node_1.sh;
 
 node2:
-	ssh -i "node1.pem" ec2-user@ec2-18-217-40-167.us-east-2.compute.amazonaws.com;
+	chmod +x ./connect_aws_node_2.sh;
+	./connect_aws_node_2.sh;
 
 node3:
-	ssh -i "node1.pem" ec2-user@ec2-3-19-223-112.us-east-2.compute.amazonaws.com;
+	chmod +x ./connect_aws_node_3.sh;
+	./connect_aws_node_3.sh;
