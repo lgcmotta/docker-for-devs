@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  mysql:
+    image: mysqlapinetwork
+    build:
+      context: .
+      dockerfile: mysql/Dockerfile
+    restart: always
+    env_file:
+      - ./config/db.env
+    ports:
+      - "3306:3306"
+    networks:
+      - dockercompose
+    volumes:
+      - ./mysql/schema.sql:/docker-entrypoint-initdb.d/init.sql
+
+  backend:
+    image: flaskcompose
+    build:
+      context: .
+      dockerfile: flask/Dockerfile
+    depends_on:
+      - mysql
+    restart: always
+    ports:
+      - "5000:5000"
+    networks:
+      - dockercompose
+
+networks:
+  dockercompose:
