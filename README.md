@@ -21,7 +21,7 @@ Some sections are pretty much just concepts and theory. This is why you won't fi
 
 ## Certificate
 
-Rocket has no reverse! :rocket:
+Rockets has no reverse! :rocket:
 
 ![certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde.jpg?v=1620449379000)
 
