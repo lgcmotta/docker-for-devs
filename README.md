@@ -16,7 +16,7 @@ Sections 1 and 2 are pretty theoretical, for that you won't find any code for th
 - [x] Introdução ao YAML - 28min
 - [x] Gerenciando múltiplos containers com Docker Compose - 59min
 - [x] Docker Swarm para orquestração - 1h 48min
-- [ ] Orquestração com Kubernetes - 2h 11min
+- [x] Orquestração com Kubernetes - 2h 11min
 - [ ] Extra: Comandos básicos de terminal - 1h 4min
 
 ## Certificate
