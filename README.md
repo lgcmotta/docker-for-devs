@@ -4,7 +4,7 @@ Repository created to study and follow the Docker course for developers. The cou
 
 ## Available code
 
-Sections 1 and 2 are pretty theoretical, for that you won't find any code for them.
+Sections one and two are pretty theoretical. You won't find any code for them in this repository.
 
 ## Done sections
 
@@ -17,10 +17,12 @@ Sections 1 and 2 are pretty theoretical, for that you won't find any code for th
 - [x] Gerenciando múltiplos containers com Docker Compose - 59min
 - [x] Docker Swarm para orquestração - 1h 48min
 - [x] Orquestração com Kubernetes - 2h 11min
-- [ ] Extra: Comandos básicos de terminal - 1h 4min
+- [x] Extra: Comandos básicos de terminal - 1h 4min
 
 ## Certificate
 
-Comming very soon :metal:
-
 Rocket has no reverse! :rocket:
+
+![certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde.jpg?v=1620449379000)
+
+You can check the certificate [here](https://www.udemy.com/certificate/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde/)
