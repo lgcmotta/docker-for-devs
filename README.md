@@ -4,9 +4,9 @@ Repository created to study and follow the Docker course for developers. The cou
 
 ## Available code
 
-Sections one and two are pretty theoretical. You won't find any code for them in this repository.
+Some sections are pretty theoretical. This is why you won't find any code for them in this repository.
 
-## Done sections
+## Progress
 
 - [x] Indroduction - 1h 17min
 - [x] Trabalhando com Containers - 1h
@@ -25,4 +25,4 @@ Rocket has no reverse! :rocket:
 
 ![certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde.jpg?v=1620449379000)
 
-You can check the certificate [here](https://www.udemy.com/certificate/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde/)
+You can also check the certificate [here](https://www.udemy.com/certificate/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde/)
