@@ -2,9 +2,9 @@
 
 Repository created to study and follow the Docker course for developers. The course link can be found [here](https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/).
 
-## Available code
+## About this repository
 
-Some sections are pretty theoretical. This is why you won't find any code for them in this repository.
+Some sections are pretty much just concepts and theory. This is why you won't find any code for them in this repository.
 
 ## Progress
 
